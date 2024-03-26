@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Mark</h1>
 <h3 align="center">I am an experienced Data Scientist and Software Engineer with a background in GIS.</h3>
 
-- 🌱 I’m currently learning **IoS Development with Swift** and **Typography/Font Design**
+- 🌱 I’m currently learning **Flask Web Development**, **IoS Development with Swift** and **Typography/Font Design**
 
 - 👯 I’m looking to collaborate on **machine learning projects**
 
