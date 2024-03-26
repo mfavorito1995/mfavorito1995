@@ -11,7 +11,11 @@
 
 - ⚡ Fun fact **I am mostly self-taught and love learning new things!**
 
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
