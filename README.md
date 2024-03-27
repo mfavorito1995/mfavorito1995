@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mark</h1>
+<h1 align="center">Hi there 👋, I'm Mark!</h1>
 </br>
 
 
@@ -54,7 +54,8 @@
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mfavorito1995)  
 
 
----
+</br>
+</br>
 
-Thanks for stopping by! See you again soon :)
+Thanks for stopping by! Talk soon...
 
