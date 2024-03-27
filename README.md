@@ -16,17 +16,20 @@
 
 <h3 align="left">📫 How to Connect with me</h3>
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1VHVtSbI770pohO59G4dYeK4S6pOFKfPZ/view?usp=sharing)
+</br>
+
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mark-favorito-101b7090/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mfavorito1995)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mfavorito1995@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mlfavorito/)
+[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1VHVtSbI770pohO59G4dYeK4S6pOFKfPZ/view?usp=sharing)
+
 
 </br>
 
----
-
 <h3 align="left">🛠️ Tools and Languages I Use</h3>
+
+</br>
 
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/></a>
@@ -47,9 +50,9 @@
 
 </br>
 
----
-
 <h3 align="left">🧑‍💼 My Public Work</h3>
+
+</br>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mfavorito1995)  
 
