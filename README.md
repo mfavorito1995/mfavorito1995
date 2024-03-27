@@ -31,10 +31,6 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfavorito1995&theme=merko&show_icons=true)
-
----
-
 <h3 align="left">📫 Connect with me:</h3>
 
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1VHVtSbI770pohO59G4dYeK4S6pOFKfPZ/view?usp=sharing)
