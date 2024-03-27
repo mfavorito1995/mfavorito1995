@@ -47,6 +47,10 @@
 
 </br>
 
+---
+
+<h3 align="left">🧑‍💼 My Public Work</h3>
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mfavorito1995)  
 
 
