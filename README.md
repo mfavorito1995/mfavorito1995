@@ -18,7 +18,6 @@
 <!--END_SECTION:activity-->
 
 <h3 align="left">Connect with me:</h3>
-[![resume]
 
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1VHVtSbI770pohO59G4dYeK4S6pOFKfPZ/view?usp=sharing)
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mark-favorito-101b7090/)
