@@ -18,3 +18,14 @@
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/mfavorito1995)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:mfavorito1995@gmail.com)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mlfavorito/)
+
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfavorito1995)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub metrics](https://metrics.lecoq.io/mfavorito1995)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mfavorito1995)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfavorito1995&theme=merko&show_icons=true)
