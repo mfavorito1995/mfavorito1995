@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **Data Science, being a self-taught programmer, road cycling, and trail running**
 
+- I'm working on a personal website, but in the meantime check out this [NYC Tree Census web application](https://mfavorito1995-nyc-tree-census-overview-vxcs8w.streamlit.app/) that I built using Streamlit
+
 </br>
 
 <h3 align="left">📫 How to Connect with me</h3>
