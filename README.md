@@ -6,7 +6,7 @@
 
 </br>
 
-- 🌱 I’m currently learning **Web Development**, **IoS Development with Swift**, and **Typography/Font Design**
+- 🌱 I’m currently learning **Web Development**, **Analytics Engineering**, and **Typography/Font Design**
 
 - 👯 I’m looking to collaborate on **machine learning projects** and **new word games and puzzles**
 
